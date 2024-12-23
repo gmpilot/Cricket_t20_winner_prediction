@@ -1,2 +1,3 @@
-# Cricket_t20_winner_prediction
-MICROSERVICES SPORTS (CRICKET T20) PREDICTION SYSTEM
+<h1>MICROSERVICES SPORTS (CRICKET T20) PREDICTION SYSTEM</h1>
+
+T20 cricket has gained popularity around the world. It is a game that is almost unpredictable, and so many factors govern the winner of a match that predicting a match result is indeed a challenging task. This system's design, development, and deployment of a T20 cricket prediction system using a microservice architecture combined with machine learning techniques. It will predict the winner of T20 matches by employing a Random Forest classifier previously trained on historical data about the match. This system implements a GUI interface-very easy to handle; one can visualize predictions and get detailed information regarding a particular match. It will be a system designed with scalability and flexibility for enhancements that could predict the winner of the running match.
